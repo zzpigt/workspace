@@ -5,3 +5,4 @@ def square_of_sum(L):
 	return sum
 print square_of_sum([1, 2, 3, 4, 5])
 print square_of_sum([-5, 0, 5, 15, 25])
+print 'add test'
